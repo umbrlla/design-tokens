@@ -33,3 +33,7 @@ Values for spacing apply to both **margins** and **padding**.
 | spacing-large   | 16px
 | spacing-xlarge  | 32px
 | spacing-2xlarge | 64px
+| spacing-jumbo   | 128px
+
+## Shadows
+Values for shadows will follow the guidelines set by Tailwind CSS, which can be found [here](https://tailwindcss.com/docs/box-shadow).
