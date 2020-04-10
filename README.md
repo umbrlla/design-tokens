@@ -25,10 +25,11 @@ For all copy text, the *Geomanist* font must be used.
 ## Spacing
 Values for spacing apply to both **margins** and **padding**.  
 *Note: May be subject to change.*
-| Name           | Value    
-| -------------- | -----
-| spacing-xsmall | 2px
-| spacing-small  | 4px
-| spacing-medium | 8px
-| spacing-large  | 16px
-| spacing-xlarge | 32px
+| Name            | Value    
+| --------------- | -----
+| spacing-xsmall  | 2px
+| spacing-small   | 4px
+| spacing-medium  | 8px
+| spacing-large   | 16px
+| spacing-xlarge  | 32px
+| spacing-2xlarge | 64px
